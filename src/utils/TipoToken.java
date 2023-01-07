@@ -2,8 +2,10 @@ package utils;
 
 /**
  *
- * @author Carlos Contreras
- * @author Mauricio García
+ * @author Rodrigo Garcia
+ * @author Alvaro Evangelista
+ * @author Mauricio Salamanca
+ * @author Nery Segundo
  */
 public class TipoToken {
 

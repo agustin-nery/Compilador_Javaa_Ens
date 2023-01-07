@@ -80,7 +80,7 @@ public class CodigoIntermedio {
     }
 
     private String generarTmp() {
-        return new Random().nextFloat() >= 0.5 ? "tmpCarlos" : "tmpMauri";
+        return new Random().nextFloat() >= 0.5 ? "tmpMau" : "tmpNery";
     }
 
     private void generarCuadruplo(ArrayList<String> elementos, int i, int contador) {
